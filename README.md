@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikey9599&label=Profile%20views&color=0e75b6&style=flat" alt="kartikey9599" /> </p>
-- 🌱 I’m currently learning  React Js
+<!-- - 🌱 I’m currently learning  React Js -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/kartikey9599](https://github.com/kartikey9599)
 
