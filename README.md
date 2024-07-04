@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kartikey9599](https://github.com/kartikey9599)
 
-- 💬 Ask me about Angular Js,Mysql
+- 💬 Ask me about React Js,Mysql
 
 - 📫 How to reach me  kartikeygupta9599@gmail.com
 
